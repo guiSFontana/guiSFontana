@@ -25,14 +25,3 @@ Atualmente, venho aprimorando minhas habilidades em lógica de programação e d
 ### **Ferramentas & Controle de Versão**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiSFontana&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiSFontana&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
-</div>
-
----
